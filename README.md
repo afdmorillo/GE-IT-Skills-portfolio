@@ -1,3 +1,2 @@
-# **WELCOME!**
-## **Get to know me**
-### Hello! I am Angel Fay D. Morillo from Bachelor of Science in Accountancy Program in Ateneo de Davao University. Asof now, my skills consists of bookkeeping, basic accounting, and basic software skills. I believe that the 21st Century IT Skills course would be a great stepping stone in order for me to improve my digital and software skills, which are important in today's generation.
+# **WELCOME TO MY PORTFOLIO!**
+### Hello! I am Angel Fay D. Morillo from Bachelor of Science in Accountancy Program at Ateneo de Davao University. Currently, my skills consists of bookkeeping, basic accounting, and navigating basic software applications. I believe that the 21st Century IT Skills course is a necessary stepping stone in order for me to improve my digital literacy and become digitally competent, which are important in today's generation. Through this, I hope to further develop my skills and be able to apply my learnings in my future academic and professional endeavors. This GitHub portfolio will serve as a witness to my progress throughout the course. 
