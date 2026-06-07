@@ -16,6 +16,7 @@
 ![CRAP ACTIVITY](/branding/brandingpng/2.png "Skills")
 ![CRAP ACTIVITY](/branding/brandingpng/3.png "Goals")
 ![CRAP ACTIVITY](/branding/brandingpng/4.png "Color Palette")
+![CRAP ACTIVITY](/branding/brandingpng/3.png "Logo")
 
 ####   -Reflection
 
@@ -50,5 +51,3 @@ This is the my [website prototype](https://canva.link/pmayurt11ksdhko).
 
 ---
 
-## Live Deployment
-**[View Live Portfolio]([https://your-github-username.github.io/your-repository-name/](https://github.com/afdmorillo/GE-IT-Skills-portfolio))**
