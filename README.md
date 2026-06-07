@@ -12,11 +12,11 @@
 
 ### 1. C.R.A.P. Activity
 ####   -Design Preview
-![CRAP ACTIVITY](/branding/brandingpng/1.png "Personal Information")
-![CRAP ACTIVITY](/branding/brandingpng/2.png "Skills")
-![CRAP ACTIVITY](/branding/brandingpng/3.png "Goals")
-![CRAP ACTIVITY](/branding/brandingpng/4.png "Color Palette")
-![CRAP ACTIVITY](/branding/brandingpng/3.png "Logo")
+![CRAP ACTIVITY](/branding/brandingpng/Personalinformation.png "Personal Information")
+![CRAP ACTIVITY](/branding/brandingpng/Skills.png "Skills")
+![CRAP ACTIVITY](/branding/brandingpng/Goals.png "Goals")
+![CRAP ACTIVITY](/branding/brandingpng/Palette.png "Color Palette")
+![CRAP ACTIVITY](/branding/brandingpng/Logo.png "Logo")
 
 ####   -Reflection
 
@@ -27,7 +27,7 @@
 #####     Banner
 ![Banner](/visuals/Asset1.png "Banner")
 
-#####     Promotional COntent
+#####     Promotional Content
 ![Content](/visuals/Asset2.png "Promotion")
 
 #### -Reflection
