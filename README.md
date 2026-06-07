@@ -1,10 +1,12 @@
 # Hi, I am Angel Fay D. Morillo
 ### *"The bravest thing that you can do is to try."*
 
+---
 
 ## Professional Bio
 I am Angel Fay D. Morillo from the Bachelor of Science in Accountancy Program at Ateneo de Davao University. I graduated from senior high school at Notre Dame of Marbel University. My skills consist of bookkeeping, basic accounting, and navigating basic software applications. I hope to further develop my skills and apply my learnings in my future academic and professional endeavors. 
 
+---
 
 ## Projects
 
@@ -17,12 +19,27 @@ I am Angel Fay D. Morillo from the Bachelor of Science in Accountancy Program at
 
 ####   -Reflection
 
+---
+
 ### 2. Visuals
 ####   -Design Preview
 #####     Banner
-![Banner](/branding/brandingpng/1.png "Banner")
+![Banner](/visuals/Asset1.png "Banner")
 
 #####     Promotional COntent
-![Content](/branding/brandingpng/1.png "Promotion")
+![Content](/visuals/Asset2.png "Promotion")
 
 #### -Reflection
+
+---
+
+### 2. Visuals
+####   -Design Preview
+#####     Banner
+![Banner](/visuals/Asset1.png "Banner")
+
+#####     Promotional COntent
+![Content](/visuals/Asset2.png "Promotion")
+
+#### -Reflection
+
