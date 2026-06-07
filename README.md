@@ -4,7 +4,7 @@
 ---
 
 ## Professional Bio
-I am Angel Fay D. Morillo from the Bachelor of Science in Accountancy Program at Ateneo de Davao University. I graduated from senior high school at Notre Dame of Marbel University. My skills consist of bookkeeping, basic accounting, and navigating basic software applications. I hope to further develop my skills and apply my learnings in my future academic and professional endeavors. 
+  I am Angel Fay D. Morillo from the Bachelor of Science in Accountancy Program at Ateneo de Davao University. I graduated from senior high school at Notre Dame of Marbel University. My skills consist of bookkeeping, basic accounting, and navigating basic software applications. I hope to further develop my skills and apply my learnings in my future academic and professional endeavors. 
 
 ---
 
@@ -33,10 +33,22 @@ I am Angel Fay D. Morillo from the Bachelor of Science in Accountancy Program at
 
 ---
 
-### 3. Media
+### 3. Docs
+####   -Design Preview
+![Infograpics](/docs/Infographic.png "Infographics")
+
+#### -Reflection
+
+---
+
+### 4. Media
 ####   -Links
 This is the my [video project](https://drive.google.com/file/d/1NuK25YeaIQ5IYs5GStq1vCo1g7ehDRqH/view?usp=drivesdk).  
 This is the my [website prototype](https://canva.link/pmayurt11ksdhko).
 
 #### -Reflection
 
+---
+
+## Live Deployment
+**[View Live Portfolio]([https://your-github-username.github.io/your-repository-name/](https://github.com/afdmorillo/GE-IT-Skills-portfolio))**
