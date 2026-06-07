@@ -10,5 +10,5 @@ I am Angel Fay D. Morillo from the Bachelor of Science in Accountancy Program at
 
 ### C.R.A.P. Activity
 #### Design Preview
-![CRAP ACTIVITY](/branding/CRAPactivity.pdf "CRAP Acitivity")
+![CRAP ACTIVITY](./branding/CRAPactivity.pdf "CRAP Acitivity")
 
