@@ -35,7 +35,7 @@ I am Angel Fay D. Morillo from the Bachelor of Science in Accountancy Program at
 
 ### 3. Media
 ####   -Links
-This is the my [video project](https://drive.google.com/file/d/1NuK25YeaIQ5IYs5GStq1vCo1g7ehDRqH/view?usp=drivesdk).
+This is the my [video project](https://drive.google.com/file/d/1NuK25YeaIQ5IYs5GStq1vCo1g7ehDRqH/view?usp=drivesdk).  
 This is the my [website prototype](https://canva.link/pmayurt11ksdhko).
 
 #### -Reflection
