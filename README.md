@@ -59,7 +59,13 @@ I realized that websites need to be interactive, eye-catching, and cohesive to k
 
 ---
 
- 
+---
+# **AI EXPLORER**
+---
+
+---
+
+
 ## *Samal Eco-Tourism Prompt System*
  
  
