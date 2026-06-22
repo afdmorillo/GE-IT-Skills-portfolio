@@ -134,7 +134,8 @@ For a policy research center in Davao, utilizing these unvetted outputs directly
 ##### Chart A: Crop Production Trends vs. Climate Anomalies
 *(Embedded High-Contrast Dual-Axis Line Graph showing Davao Region Crop Yield Divergence vs. Soil Moisture Deficit Months 2021-2026)*
 
-![Chart A: 2021-2026 Davao Crop Yield Divergence Graph](https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80) 
+![Chart A: 2021-2026 Davao Crop Yield Divergence Graph] <img width="1086" height="501" alt="LineGraph" src="https://github.com/user-attachments/assets/1caab27f-e8ae-4a65-916b-c6ba1e64f6a7" />
+
 
 ##### Chart B: Municipal Water Distribution Inequities
 *(Embedded High-Contrast Segmented Bar Chart illustrating Monthly Irrigation Volume Deficits Across Mindanao Provincial Clusters)*
