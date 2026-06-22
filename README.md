@@ -94,6 +94,5 @@ OUTPUT: Output in clear markdown with exactly three actionable steps under the h
 #### 3. Visual Branding Asset
 - **Engine Used:** Canva Magic Media
 - **Visual Prompt:** "A flat minimalist vector logo of an island with waves of ocean, and a recycling loop circling around the island and waves."
-![Logo](https://drive.google.com/drive/folders/15JXM6tmQ49oMZTycQ025eb6SXtN0DD1W?usp=sharing)
-
+![Logo](/aiEXPLORER/ITLOGO.png "Samal Eco-Tourism Prompt System Logo")
 
