@@ -94,7 +94,7 @@ OUTPUT: Output in clear markdown with exactly three actionable steps under the h
 #### 3. Visual Branding Asset
 - **Engine Used:** Canva Magic Media
 - **Visual Prompt:** "A flat minimalist vector logo of an island with waves of ocean, and a recycling loop circling around the island and waves."
-![Logo](/aiEXPLORER/ITLOGO.png "Samal Eco-Tourism Prompt System Logo")
+<img width="803" height="781" alt="Generate _A flat minimalist vector logo of an island with waves of ocean, and a recycling loop circling around the island and waves_ in a modern vector art style with a flat design aesthetic" src="https://github.com/user-attachments/assets/d3c1d3af-3dd7-4b57-99d1-ee6c2ddfc4d0" />
 
 
 ### ***Literature Verification Log***
@@ -134,15 +134,16 @@ For a policy research center in Davao, utilizing these unvetted outputs directly
 ##### Chart A: Crop Production Trends vs. Climate Anomalies
 *(Embedded High-Contrast Dual-Axis Line Graph showing Davao Region Crop Yield Divergence vs. Soil Moisture Deficit Months 2021-2026)*
 
-![Chart A: 2021-2026 Davao Crop Yield Divergence Graph] <img width="1086" height="501" alt="LineGraph" src="https://github.com/user-attachments/assets/1caab27f-e8ae-4a65-916b-c6ba1e64f6a7" />
+<img width="1408" height="768" alt="Gemini_Generated_Image_lxy95elxy95elxy9 (1)" src="https://github.com/user-attachments/assets/d1397d5d-1e66-4f8f-b167-d67b91bb3d38" />
 
 
 ##### Chart B: Municipal Water Distribution Inequities
 *(Embedded High-Contrast Segmented Bar Chart illustrating Monthly Irrigation Volume Deficits Across Mindanao Provincial Clusters)*
 
-![Chart B: Municipal Irrigation Volume Deficit Matrix](https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80) 
+<img width="1244" height="864" alt="Gemini_Generated_Image_w2qn75w2qn75w2qn" src="https://github.com/user-attachments/assets/57f132e8-5c34-4bd3-9498-cbd18e177c47" />
+
 
 #### 3. Human Analytical Narrative (The 'Why' Factor)
-"The clean data models reveal an abrupt 22% decline in smallholder cacao output centered between late 2024 and early 2026. Crucially, when cross-referenced with Chart B, this plunge directly mirrors a critical 35% drop in municipal irrigation water delivery across Davao del Sur and Davao Oro, proving that current gravity-fed irrigation systems are completely failing during severe meteorological anomalies. 
+The clean data models reveal an abrupt 22% decline in smallholder cacao output centered between late 2024 and early 2026. Crucially, when cross-referenced with Chart B, this plunge directly mirrors a critical 35% drop in municipal irrigation water delivery across Davao del Sur and Davao Oro, proving that current gravity-fed irrigation systems are completely failing during severe meteorological anomalies. 
 
 This stark divergence highlights an urgent socio-environmental reality: traditional weather-dependent agricultural practices are no longer viable in Mindanao's changing climate landscape. For the upcoming emergency legislative session, it is strongly recommended that NEDA Region XI and local LGUs immediately freeze secondary concrete road funding. These budgetary resources must be aggressively reallocated toward constructing smart, solar-powered drip-irrigation infrastructure and establishing localized weather telemetry networks. Providing targeted climate-resiliency subsidies directly to smallholder cooperatives will prevent total supply chain collapse and preserve regional food security."
