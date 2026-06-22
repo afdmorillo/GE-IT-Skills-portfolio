@@ -78,7 +78,8 @@ CONTEXT: Samal faces plastic pollution and waste management challenges due to to
 
 TASK: Your objective is to draft a 300-word contingency plan to help the island reduce plastic pollution and aid in waste management.  
 
-CONSTRAINTS: Use a professional, community-centered tone. DO NOT mention global or national plastic pollution and waste management challenges. Focus entirely on Samal's challenges with plastic pollution and waste management, and how they affect the island's ecosystem and the people living there. 
+CONSTRAINTS: Use a professional, community-centered tone. DO NOT mention global or national plastic pollution and waste management challenges. Focus entirely on Samal's challenges with plastic pollution and waste management, and how they affect the island's ecosystem and the people living there.   
+
 OUTPUT: Output in clear markdown with exactly three actionable steps under the heading '### Emergency Interventions'. 
  
  
@@ -93,4 +94,6 @@ OUTPUT: Output in clear markdown with exactly three actionable steps under the h
 #### 3. Visual Branding Asset
 - **Engine Used:** Canva Magic Media
 - **Visual Prompt:** "A flat minimalist vector logo of an island with waves of ocean, and a recycling loop circling around the island and waves."
+![Logo](https://drive.google.com/drive/folders/15JXM6tmQ49oMZTycQ025eb6SXtN0DD1W?usp=sharing)
+
 
