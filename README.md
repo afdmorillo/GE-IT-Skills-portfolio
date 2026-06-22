@@ -59,21 +59,25 @@ I realized that websites need to be interactive, eye-catching, and cohesive to k
 
 ---
 
----
+
 # **AI EXPLORER**
+
+
 ---
 
----
 
+## ***Samal Eco-Tourism Prompt System***
 
-## *Samal Eco-Tourism Prompt System*
  
- 
-#### 1. System Prompt Template
+### **Prompt Engineering (Text & Image Generation)**
+
+#### **1. System Prompt Template**
 "Act as a digital solutions architect for consulting for an LGU in Davao City, which aims to improve and address the eco-tourism in Samal."
  
 CONTEXT: Samal faces plastic pollution and waste management challenges due to tourism and improper waste disposal. Although they have initiated "green eco-tourism" and "circular economy", wide-scale enforcement remains a challenge.  
-TASK: Your objective is to draft a 300-word contingency plan to help the island reduce plastic pollution and aid in waste management. 
+
+TASK: Your objective is to draft a 300-word contingency plan to help the island reduce plastic pollution and aid in waste management.  
+
 CONSTRAINTS: Use a professional, community-centered tone. DO NOT mention global or national plastic pollution and waste management challenges. Focus entirely on Samal's challenges with plastic pollution and waste management, and how they affect the island's ecosystem and the people living there. 
 OUTPUT: Output in clear markdown with exactly three actionable steps under the heading '### Emergency Interventions'. 
  
