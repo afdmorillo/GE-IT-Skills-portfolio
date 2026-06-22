@@ -59,3 +59,28 @@ I realized that websites need to be interactive, eye-catching, and cohesive to k
 
 ---
 
+ 
+## *Samal Eco-Tourism Prompt System*
+ 
+ 
+#### 1. System Prompt Template
+"Act as a digital solutions architect for consulting for an LGU in Davao City, which aims to improve and address the eco-tourism in Samal."
+ 
+CONTEXT: Samal faces plastic pollution and waste management challenges due to tourism and improper waste disposal. Although they have initiated "green eco-tourism" and "circular economy", wide-scale enforcement remains a challenge.  
+TASK: Your objective is to draft a 300-word contingency plan to help the island reduce plastic pollution and aid in waste management. 
+CONSTRAINTS: Use a professional, community-centered tone. DO NOT mention global or national plastic pollution and waste management challenges. Focus entirely on Samal's challenges with plastic pollution and waste management, and how they affect the island's ecosystem and the people living there. 
+OUTPUT: Output in clear markdown with exactly three actionable steps under the heading '### Emergency Interventions'. 
+ 
+ 
+#### 2. Prompt Battle Ledger
+| Version | Prompt Modifier Added | Output Quality Reflection |
+| :--- | :--- | :--- |
+| V1 | "Draft a plan to reduce plastic pollution in Samal Island." | Too general. The response discussed broad environmental issues and lacked specific actions tailored to Samal's tourism-related waste challenges. |
+| V2 | Added context about eco-tourism, plastic pollution, waste management issues, and existing green eco-tourism and circular economy initiatives. | More relevant to Samal. The output focused on local concerns, but recommendations were still somewhat generic and inconsistent in structure. |
+| V3 | Added a defined role (digital solutions architect for an LGU), a 300-word limit, a professional community-centered tone, a prohibition on discussing global or national issues, and a required markdown format with exactly three actionable steps under "### Emergency Interventions". | Strongest version. The response became highly localized, concise, actionable, and aligned with the needs of Samal's communities and eco-tourism sector while following a clear and consistent structure. |
+ 
+ 
+#### 3. Visual Branding Asset
+- **Engine Used:** Canva Magic Media
+- **Visual Prompt:** "A flat minimalist vector logo of an island with waves of ocean, and a recycling loop circling around the island and waves."
+
