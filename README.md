@@ -99,6 +99,9 @@ OUTPUT: Output in clear markdown with exactly three actionable steps under the h
 <img width="803" height="781" alt="Generate _A flat minimalist vector logo of an island with waves of ocean, and a recycling loop circling around the island and waves_ in a modern vector art style with a flat design aesthetic" src="https://github.com/user-attachments/assets/d3c1d3af-3dd7-4b57-99d1-ee6c2ddfc4d0" />
 
 
+---
+
+  
 ### ***Literature Verification Log***
 
 #### Topic: Digital Infrastructure and Broadband Penetration in Mindanao's Geographically Isolated Areas
@@ -116,6 +119,9 @@ I prompted an AI discovery tool to summarize recent literature on Mindanao's dig
 "While the AI platform consolidated multiple dense policy documents into clear thematic summaries, its integration into our policy pipeline introduces substantial vulnerabilities. The tool exhibits a high propensity for 'confident hallucination'—specifically inventing precise statistical benchmarks and manufacturing localized academic citations to synthesize a seamless but historically inaccurate narrative. 
 
 For a policy research center in Davao, utilizing these unvetted outputs directly would severely undermine institutional credibility with the Research Director and regional stakeholders. A rigorous, human-in-the-loop verification matrix remains absolutely mandatory to filter out simulated empirical data before any brief advances to the policy-drafting phase."
+
+
+---
 
 
 ### ***Data Analytics & Visual Report***
