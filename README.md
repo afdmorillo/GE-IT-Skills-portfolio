@@ -49,14 +49,14 @@ This activity was very difficult because I really needed to condense the informa
 
 ### 4. Media
 ####   Links
-This is the my [video project](https://drive.google.com/file/d/1NuK25YeaIQ5IYs5GStq1vCo1g7ehDRqH/view?usp=drivesdk).  
-This is the my [website prototype](https://canva.link/pmayurt11ksdhko).
+This is my [video project](https://drive.google.com/file/d/1NuK25YeaIQ5IYs5GStq1vCo1g7ehDRqH/view?usp=drivesdk).  
+This is my [website prototype](https://canva.link/pmayurt11ksdhko).
 
-#### -Reflection for Video
+#### Reflection for Video
 I realized that editing videos requires a lot of attention to detail, patience, and creativity. For me, this was difficult even with the template, because there are many factors to consider, including audio, text, timing, and elements. For this design, I chose an eye-catching template with upbeat background music, but it didn't align with the branding I wanted. 
 
-#### -Reflection for Prototype
-I realized that websites need to be interactive, eye-catching, and cohesive to keep viewers browsing. Deciding the content of this website was difficult because there was so much space and so little information that I wanted to add. For this project, I still used the same elements, colors, and fonts from my previous projects to maintain my branding.
+#### Reflection for Prototype
+I realized that websites need to be interactive, eye-catching, and cohesive to keep viewers browsing. Deciding the content of this website was difficult because there was so much space and so little information that I wanted to add. For this project, I used the same elements, colors, and fonts as in my previous projects to maintain my branding.
 
 
 ---
@@ -76,7 +76,7 @@ I realized that websites need to be interactive, eye-catching, and cohesive to k
 #### **1. System Prompt Template**
 "Act as a digital solutions architect for consulting for an LGU in Davao City, which aims to improve and address the eco-tourism in Samal."
  
-CONTEXT: Samal faces challenges related to plastic pollution and waste management due to tourism and improper waste disposal. Although they have initiated "green eco-tourism" and "circular economy", wide-scale enforcement remains a challenge.  
+CONTEXT: Samal faces challenges related to plastic pollution and improper waste management, driven by tourism and poor waste disposal. Although they have initiated "green eco-tourism" and "circular economy", wide-scale enforcement remains a challenge.  
 
 TASK: Your objective is to draft a 300-word contingency plan to help the island reduce plastic pollution and aid in waste management.  
 
