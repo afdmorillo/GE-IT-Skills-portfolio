@@ -14,11 +14,11 @@
 
 ### 1. C.R.A.P. Activity
 ####   Design Preview
-![CRAP ACTIVITY](/branding/brandingpng/Personalinformation.png "Personal Information")
-![CRAP ACTIVITY](/branding/brandingpng/Skills.png "Skills")
-![CRAP ACTIVITY](/branding/brandingpng/Goals.png "Goals")
-![CRAP ACTIVITY](/branding/brandingpng/Palette.png "Color Palette")
-![CRAP ACTIVITY](/branding/brandingpng/Logo.png "Logo")
+![CRAP ACTIVITY](/branding/Personalinformation.png "Personal Information")
+![CRAP ACTIVITY](/branding/Skills.png "Skills")
+![CRAP ACTIVITY](/branding/Goals.png "Goals")
+![CRAP ACTIVITY](/branding/Palette.png "Color Palette")
+![CRAP ACTIVITY](/branding/Logo.png "Logo")
 
 ####   Reflection
 This activity made me realize the importance of cohesiveness in colors, elements, and fonts in making media look presentable, attractive to viewers, and highlight the important information that I want to convey to them. For this activity, I used a color palette with shades of pink, cream, and green, inspired by flower gardens, and elements such as stamps, lilies, and caladium to express the vintage floral vibe that I want to convey, and fonts such as DM Sans, Amoresa, and Perandory Semicondensed for the dreamy vibe.
