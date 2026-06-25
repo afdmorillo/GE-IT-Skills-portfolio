@@ -57,6 +57,7 @@ This is my video project
 
 
 
+  
 #### Reflection for Video
 I realized that editing videos requires a lot of attention to detail, patience, and creativity. For me, this was difficult even with the template, because there are many factors to consider, including audio, text, timing, and elements. For this design, I chose an eye-catching template with upbeat background music, but it didn't align with the branding I wanted. Still, thank to the template, the video effects were good.
 
