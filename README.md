@@ -49,8 +49,8 @@ This activity was very difficult because I really needed to condense the informa
 
 ### 4. Media
 ####   Links
-This is my video project:
-[video prooject](https://github.com/user-attachments/assets/8eb9edf6-5150-49c1-a0e1-15997ab8116a)  
+This is my video project
+[video project](https://github.com/user-attachments/assets/8eb9edf6-5150-49c1-a0e1-15997ab8116a)  
 
 #### Reflection for Video
 I realized that editing videos requires a lot of attention to detail, patience, and creativity. For me, this was difficult even with the template, because there are many factors to consider, including audio, text, timing, and elements. For this design, I chose an eye-catching template with upbeat background music, but it didn't align with the branding I wanted. Still, thank to the template, the video effects were good.
