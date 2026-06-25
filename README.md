@@ -49,20 +49,14 @@ This activity was very difficult because I really needed to condense the informa
 
 ### 4. Media
 ####   Links
-This is my [video project](https://drive.google.com/file/d/1NuK25YeaIQ5IYs5GStq1vCo1g7ehDRqH/view?usp=drivesdk).  
-
-
-
-
-[video prooject](https://github.com/user-attachments/assets/8eb9edf6-5150-49c1-a0e1-15997ab8116a)
-
-
-
-
-This is my [website prototype](https://canva.link/pmayurt11ksdhko).
+This is my video project:
+[video prooject](https://github.com/user-attachments/assets/8eb9edf6-5150-49c1-a0e1-15997ab8116a)  
 
 #### Reflection for Video
-I realized that editing videos requires a lot of attention to detail, patience, and creativity. For me, this was difficult even with the template, because there are many factors to consider, including audio, text, timing, and elements. For this design, I chose an eye-catching template with upbeat background music, but it didn't align with the branding I wanted. 
+I realized that editing videos requires a lot of attention to detail, patience, and creativity. For me, this was difficult even with the template, because there are many factors to consider, including audio, text, timing, and elements. For this design, I chose an eye-catching template with upbeat background music, but it didn't align with the branding I wanted. Still, thank to the template, the video effects were good.
+
+
+This is my [website prototype](https://canva.link/pmayurt11ksdhko)
 
 #### Reflection for Prototype
 I realized that websites need to be interactive, eye-catching, and cohesive to keep viewers browsing. Deciding the content of this website was difficult because there was so much space and so little information that I wanted to add. For this project, I used the same elements, colors, and fonts as in my previous projects to maintain my branding.
