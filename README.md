@@ -50,6 +50,15 @@ This activity was very difficult because I really needed to condense the informa
 ### 4. Media
 ####   Links
 This is my [video project](https://drive.google.com/file/d/1NuK25YeaIQ5IYs5GStq1vCo1g7ehDRqH/view?usp=drivesdk).  
+
+
+
+
+[video prooject](https://github.com/user-attachments/assets/8eb9edf6-5150-49c1-a0e1-15997ab8116a)
+
+
+
+
 This is my [website prototype](https://canva.link/pmayurt11ksdhko).
 
 #### Reflection for Video
