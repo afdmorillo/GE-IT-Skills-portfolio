@@ -49,7 +49,7 @@ This activity was very difficult because I really needed to condense the informa
 
 ### 4. Media
 ####   Links
-This is my video project
+***This is my video project***
 
 
 [video project](https://github.com/user-attachments/assets/c4a325f1-2c36-4d0c-9c33-8006c443652d)
@@ -63,7 +63,7 @@ I realized that editing videos requires a lot of attention to detail, patience, 
 
 
       
-This is my [website prototype](https://canva.link/pmayurt11ksdhko)
+***This is my [website prototype](https://canva.link/pmayurt11ksdhko)***
 
 #### Reflection for Prototype
 I realized that websites need to be interactive, eye-catching, and cohesive to keep viewers browsing. Deciding the content of this website was difficult because there was so much space and so little information that I wanted to add. For this project, I used the same elements, colors, and fonts as in my previous projects to maintain my branding.
