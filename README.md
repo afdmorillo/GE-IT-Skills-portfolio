@@ -2,7 +2,7 @@
 
 
 # **ABOUT ME**
-### ***Angel Fay D. Morillo**
+### ***Angel Fay D. Morillo***
 ### ***"The bravest thing that you can do is to try."***
 
 ---
